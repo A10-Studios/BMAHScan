@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: BMAHScan
+## Notes: Scans the Black Market AH and shows its contents in a window.
+## Author: Alex & ChatGPT
+## Version: 1.1.0
+## SavedVariables: BMAHScanDB
+
+BMAHScan.lua
