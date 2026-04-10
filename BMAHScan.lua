@@ -1,6 +1,6 @@
 local addonName = ...
 local BMAHScan = CreateFrame("Frame")
-
+-- version is set in TOC, read from there for display
 -- Global SavedVariable table (declared in TOC)
 BMAHScanDB = BMAHScanDB or {}
 
